@@ -1,0 +1,49 @@
+.darktheme {
+  background-color: black;
+  color: white;
+}
+
+.lighttheme {
+  background-color: rgb(99, 99, 99);
+  color: black;
+  transition: all 1s ease;
+}
+
+.darktheme nav {
+  background-color: rgb(239, 239, 239);
+  color: black;
+  transition: all 1s ease;
+  -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -ms-transition: all 1s ease;
+  -o-transition: all 1s ease;
+}
+
+.darktheme nav h1 {
+  color: black;
+}
+
+.lighttheme nav {
+  background-color: rgb(16, 16, 16);
+  color: rgb(255, 255, 255);
+}
+
+.lighttheme input {
+  color: black;
+}
+
+.lighttheme i {
+  color: black;
+}
+
+.darktheme i {
+  color: rgb(0, 0, 0);
+}
+
+.lighttheme .mommmm {
+  color: white;
+}
+
+.darktheme .mommmm {
+  color: rgb(0, 0, 0);
+}
